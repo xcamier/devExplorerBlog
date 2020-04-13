@@ -7,6 +7,11 @@ It uses a theme called [chuncky poster](https://themes.gohugo.io/hugo-theme-chun
 
 The idea of this blog is to share technical experiences and code. It is also a way to get feedback and to improve my skills.
 
+## Retrieval
+
+git submodule update --init --recursive
+
 ## Deployment
 
 Automated using github actions
+
