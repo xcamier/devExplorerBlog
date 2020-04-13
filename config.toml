@@ -19,7 +19,7 @@ theme = "hugo-theme-chunky-poster"
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "about/"
     weight = 0
 
 [taxonomies]

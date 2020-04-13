@@ -3,7 +3,7 @@ title: "Installation of Ubuntu in dual boot with El Capitan"
 description: "How to install Ubuntu in dual boot with El Capitan on an early 2009 iMac"
 authors: ["Xavier Camier"]
 date: 2020-04-08T12:00:00+02:00
-tags: ["System","Linux","OSX","How to"]
+tags: ["System","Linux","OSX","Tutorial"]
 images: ["ubuntu.jpg"]
 draft: false
 ---

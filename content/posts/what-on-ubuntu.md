@@ -3,12 +3,12 @@ title: "What on Ubuntu"
 description: "Description of how I build the website using Hugo"
 authors: ["Xavier Camier"]
 date: 2020-04-08T13:30:37+02:00
-tags: ["System","Linux","OSX","How to"]
+tags: ["System","Linux"]
 images: ["ubuntu.jpg"]
 draft: false
 ---
 
-How to tailor Ubuntu 19.10 to suit my needs
+How i've tailored Ubuntu 19.10 to suit my needs
 
 
 I want the machine to be a dev machine

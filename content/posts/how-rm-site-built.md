@@ -5,7 +5,7 @@ authors: ["Xavier Camier"]
 date: 2020-04-10T16:38:30+02:00
 tags: ["Web","Tools"]
 images: ["web.jpg"]
-draft: false
+draft: true
 ---
 
 ### Goal: to remember how the local band site is built
