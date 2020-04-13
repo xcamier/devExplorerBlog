@@ -1,0 +1,41 @@
+---
+title: "Vscode Dev Environment"
+description: "How to install Ubuntu in dual boot with El Capitan on an early 2009 iMac"
+authors: ["Xavier Camier"]
+date: 2020-04-08T13:00:05+02:00
+tags: ["Tool","Development"]
+images: ["vsCode.png"]
+draft: false
+---
+
+#### VS Code Extensions not related to a language
+
+| Extension name                 | Author           | Usage                                        |
+| ------------------------------ |------------------| ---------------------------------------------|
+| Material icon Theme publisher  | Philipp Kief     | Material Design Icons for Visual Studio Code |
+| Path Intellisense              | Christian Kohler | VS Code plugin that autocompletes filenames  |
+
+
+#### VS Code Extensions for C#
+
+| Extension name                 | Author           | Usage                                        |
+| ------------------------------ |------------------| ---------------------------------------------|
+| C# for Visual Studio Code      | Microsoft        | Syntax highlighting                          |
+| C# Extensions                  | JosKreativ       | Class creation via contextual menu           |
+| Nuget Package Manager          | jmrog            | Adding/Removing nugget packages              |
+
+
+#### VS Code Extensions for Angular
+
+| Extension name                 | Author           | Usage                                             |
+| ------------------------------ |------------------| --------------------------------------------------|
+| Angular Snipets                | Microsoft        | Quickly scffold angular file templates            |
+| Angular Files                  | JosKreativ       | Quickly scffold angular file templates            |
+| Angular Languages              | Angular          | Service Editor Service for Angular Templates      |
+| Angular2-switcher              | infinity1207     | Easily navigate to component's files              |
+| Auto Rename Tag                | Jun Han          | Auto rename paired HTML/XML tags                  |
+| Bracket Pair Colorizer 2       | CoenraadS        | A customizable extension for colorizing brackets  |
+| Debugger for Chrome            | Microsoft        | Debug your js code in the chrome browser          |
+| Prettier Code Formatter        | Esben Petersen   | plugin for prettier                               |
+| TSLint                         | Microsoft        | TSLint support for VS Code                        |
+
