@@ -32,7 +32,7 @@ Note: Environment is OSX 10.11
 
 {{< figure src="images/githubcreate.png" >}}
 
-    Note: to be considered as website to serve by github, the name of the site shall respect the tempate "yourSiteName.github.io"
+    Note: the form "yourSiteName.github.io" used to be necessary. It is not the case anymore. In order not to have to rework this tutorial I keep it like that but notice that a standard project name can do the job.
 
     Points of care:
         - Make sure to make the site public

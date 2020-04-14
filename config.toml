@@ -14,7 +14,7 @@ theme = "hugo-theme-chunky-poster"
   [[menu.main]]
     identifier = "home"
     name = "Home"
-    url = "/"
+    url = ""
     weight = 10
   [[menu.main]]
     identifier = "about"
