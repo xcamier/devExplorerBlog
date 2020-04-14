@@ -7,4 +7,4 @@ twitter: ''
 
 I am [Xavier Camier](https://www.linkedin.com/in/xavier-camier-35b0445b/), french Scrum Master and former developer working for a company located in [Arras](https://osm.org/go/0BfqO~g).
 
-Coding is not my main job anymore but coding is still my passion. In order to keep my skills up do date and because it's fun I spend time trying various technologies. 
+Coding is not my main job anymore but coding is still my passion. In order to keep my skills up do date and because it's fun I spend time trying various technologies. My manager told me that if I can explain and share a topic, it means I've understood the topic. That blog will be a good test for me :-)

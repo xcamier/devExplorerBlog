@@ -2,7 +2,7 @@
 title: "Customization of an Hugo Theme"
 description: "How to perform basic modifications on a Hugo Theme"
 authors: ["Xavier Camier"]
-date: 2020-04-14T09:53:43+02:00
+date: 2020-04-14T12:00:00+02:00
 tags: ["Web","Tools","Tutorial"]
 images: ["web.jpg"]
 draft: false

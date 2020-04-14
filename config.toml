@@ -42,8 +42,8 @@ author = "authors"
   [params.social]
     rss = true
     email = "camierxthrow@icloud.com"
-    facebook = "https://www.facebook.com/camierx"
-    linkedin = "https://www.linkedin.com/in/xavier-camier-35b0445b/"
+    facebook = ""
+    linkedin = "https://www.linkedin.com/in/xavier-camier-35b0445b"
     github = "https://github.com/xcamier"
 
   [params.prismJS]
