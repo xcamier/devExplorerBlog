@@ -1,4 +1,4 @@
-baseURL = "https://xcamier.github.io/devExplorerBlog.github.io/"
+baseURL = "https://xcamier.github.io/devExplorerBlog/"
 title = "Code & Technics"
 copyright = "Copyright © 2020, Xavier Camier; all rights reserved."
 paginate = 2
