@@ -1,6 +1,6 @@
 ---
 title: "How This Site Is Built"
-description: "Description of how I build the website using Hugo"
+description: "This tutorial explains how I've built that website using Hugo, an existing theme and few customizations. It also explains how to use Gihub free static pages serving and how to use Github actions to publish the pages automatically."
 authors: ["Xavier Camier"]
 date: 2020-04-07T16:38:30+02:00
 tags: ["Web","Tools","Tutorial"]

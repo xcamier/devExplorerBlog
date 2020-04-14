@@ -1,6 +1,6 @@
 ---
 title: "How Our Local Band Site is Built"
-description: "Description of how I've built my local band site using Hugo"
+description: "This tutorial explains how I've built the website of my local band using Hugo, an existing theme and few customizations."
 authors: ["Xavier Camier"]
 date: 2020-04-10T16:38:30+02:00
 tags: ["Web","Tools"]

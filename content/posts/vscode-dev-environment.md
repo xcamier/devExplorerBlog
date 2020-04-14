@@ -1,9 +1,9 @@
 ---
 title: "Vscode Dev Environment"
-description: "How to install Ubuntu in dual boot with El Capitan on an early 2009 iMac"
+description: "List of Visual Studio Code Extentions I use to code in c# and Angular."
 authors: ["Xavier Camier"]
 date: 2020-04-08T13:00:05+02:00
-tags: ["Tool","Development"]
+tags: ["Tool","Development","VS Code"]
 images: ["vsCode.png"]
 draft: false
 ---
