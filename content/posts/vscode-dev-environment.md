@@ -29,13 +29,22 @@ draft: false
 
 | Extension name                 | Author           | Usage                                             |
 | ------------------------------ |------------------| --------------------------------------------------|
-| Angular Snipets                | Microsoft        | Quickly scffold angular file templates            |
-| Angular Files                  | JosKreativ       | Quickly scffold angular file templates            |
-| Angular Languages              | Angular          | Service Editor Service for Angular Templates      |
+| Angular Snipets (Version 9)    | John Papa        | Quickly scffold angular file templates            |
+| Angular Files                  | Alex. Ivanichev  | Quickly scffold angular file templates            |
+| Angular Languages Service      | Angular          | Service Editor Service for Angular Templates      |
 | Angular2-switcher              | infinity1207     | Easily navigate to component's files              |
 | Auto Rename Tag                | Jun Han          | Auto rename paired HTML/XML tags                  |
 | Bracket Pair Colorizer 2       | CoenraadS        | A customizable extension for colorizing brackets  |
 | Debugger for Chrome            | Microsoft        | Debug your js code in the chrome browser          |
-| Prettier Code Formatter        | Esben Petersen   | plugin for prettier                               |
+| Prettier Code Formatter        | Prettier         | plugin for prettier                               |
 | TSLint                         | Microsoft        | TSLint support for VS Code                        |
 
+
+#### VS Code Extensions for Python
+
+| Extension name                 | Author           | Usage                                        |
+| ------------------------------ |------------------| ---------------------------------------------|
+| Python                         | Microsoft        | Linting, Debugging...                        |
+
+
+Last update 2020-09-26
