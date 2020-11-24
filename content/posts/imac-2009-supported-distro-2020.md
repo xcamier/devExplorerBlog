@@ -1,6 +1,6 @@
 ---
 title: "iMac 2009: Supported Linux Distribution in November 2020"
-description: "A list of Linux distributions I could make working on my iMac early 2009"
+description: "A list of Linux distributions I could make working on my early 2009 iMac"
 authors: ["Xavier Camier"]
 date: 2020-11-24T16:07:32+01:00
 tags: ["System","Linux"]
@@ -36,5 +36,5 @@ What has been tested:
 
 | Distribution Name | ISO Name                                | Observation                                  |
 | ----------------- |-----------------------------------------| ---------------------------------------------|
-| Elementary OS 5.1 | elementaryos-5.1-stable.20200814.iso    | Could start but freeze when using it. Minimal reqs suggest core i3 as minimal proc, iMac has a Core 2 Duo. That may explain why                                 |
+| Elementary OS 5.1 | elementaryos-5.1-stable.20200814.iso    | Could start but froze when using it. Minimal reqs suggest core i3 as minimal proc, iMac has a Core 2 Duo. That may explain why                                 |
 | Manjaro 20.1.2    | manjaro-gnome-20.1.2-201019-linux58.iso | Doesn't even start.                          |
