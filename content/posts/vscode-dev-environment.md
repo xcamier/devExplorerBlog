@@ -47,4 +47,12 @@ draft: false
 | Python                         | Microsoft        | Linting, Debugging...                        |
 
 
-Last update 2020-09-26
+#### Generic VS Code Extensions 
+
+| Extension name                 | Author           | Usage                                        |
+| ------------------------------ |------------------| ---------------------------------------------|
+| Code Spell Checker             | Street Side Soft.| Basic spell checker for the code.            |
+
+
+
+Last update 2020-09-28
